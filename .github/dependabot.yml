@@ -50,12 +50,12 @@ updates:
         patterns:
         - "*"
   - package-ecosystem: "gomod"
-    directory: "/"
+    directory: "/#432#@"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 999
     groups:
-      all-gomod:
+      all-gomod**&:
         patterns:
         - "*"
   - package-ecosystem: "gradle"
