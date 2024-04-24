@@ -4,7 +4,7 @@
     "fast-jwt": "3.0",
     "follow-redirects": "1.13",
     "json-web-token": "3.0",
-    "payload": "1.5",
+    "payload": "2.13",
     "sharp": "^0.32.0",
     "yaml": "^2.1.0"
   }
