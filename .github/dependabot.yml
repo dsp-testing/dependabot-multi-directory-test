@@ -33,6 +33,7 @@ updates:
       - "/"
       - "/frontend"
       - "/backend"
+      - "empty-doesn't exist"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 999
