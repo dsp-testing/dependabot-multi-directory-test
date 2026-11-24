@@ -19,7 +19,7 @@
     }
   },
   "devDependencies": {
-    "etag": "^1.0.0"
+    "etag": "^2.0.0"
   },
   "dependencies": {
     "fetch-factory": "^0.0.1",
